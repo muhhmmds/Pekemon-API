@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pekemon-API/static/css/main.492d5152.css",
+    "main.js": "/Pekemon-API/static/js/main.9c242297.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Pekemon-API/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Pekemon-API/index.html",
+    "main.492d5152.css.map": "/Pekemon-API/static/css/main.492d5152.css.map",
+    "main.9c242297.js.map": "/Pekemon-API/static/js/main.9c242297.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Pekemon-API/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.492d5152.css",
+    "static/js/main.9c242297.js"
+  ]
+}
